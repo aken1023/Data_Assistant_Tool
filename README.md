@@ -4,13 +4,12 @@
 **使用技術: Assistant API(Function Calling / RAG / Code Interpreter)、Streamlit(Web)**
 
 ### 登入介面
-![圖片1](https://github.com/Zhijwu/Data_Assistant_Tool/assets/113652924/b4b282ce-73f4-4415-8450-99ca43697317)
 ![Login Image](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/login.png?raw=true)
-![圖片1](https://github.com/Zhijwu/images/assets/login.png)
+
 ### 開始問答
-![圖片2](https://github.com/Zhijwu/Data_Assistant_Tool/assets/113652924/adb95c6c-e7a8-46b8-a1bd-e01e3150b650)
+![Chat Image](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/chat.png?raw=true)
 
 ### 實際問答結果
-![圖片3](https://github.com/Zhijwu/Data_Assistant_Tool/assets/113652924/fdbf6791-be6f-45e5-9641-d475e1351709)
+![answer1 Image](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer1.png?raw=true)
 
-![圖片4](https://github.com/Zhijwu/Data_Assistant_Tool/assets/113652924/28c5ac28-7cc4-4b28-b6a3-39719a6f3c58)
+![answer2 Image](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer2.png?raw=true)
