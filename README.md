@@ -10,6 +10,6 @@
 <img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/chat.png?raw=true" width="600">
 
 ### 實際問答結果
-<img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer1.png?raw=true" width="600">
+<img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer_1.png?raw=true" width="600">
 
-<img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer2.png?raw=true" width="600">
+<img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/answer_2.png?raw=true" width="600">
