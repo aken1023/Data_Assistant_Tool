@@ -4,7 +4,7 @@
 **使用技術: Assistant API(Function Calling / RAG / Code Interpreter)、Streamlit(Web)**
 
 ### 登入介面
-<img src="https://github.com/your-username/Data_Assistant_Tool/blob/main/images/login.png?raw=true](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/login.png?raw=true)" width="200">
+<img src="https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/login.png?raw=true)" width="200">
 ### 開始問答
 ![Chat Image](https://github.com/Zhijwu/Data_Assistant_Tool/blob/main/images/chat.png?raw=true)
 
