@@ -1,5 +1,11 @@
 db-dtypes==1.2.0
+google-api-core==2.15.0
+google-auth==2.27.0
 google-cloud-bigquery==3.15.0
+google-cloud-core==2.4.1
+google-crc32c==1.5.0
+google-resumable-media==2.7.0
+googleapis-common-protos==1.63.0
 numpy==1.26.3
 openai==1.8.0
 pandas==2.1.4
